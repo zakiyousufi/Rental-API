@@ -68,7 +68,7 @@ ActiveRecord::Schema[7.0].define(version: 2022_11_25_125116) do
     t.string "address"
     t.string "house_type"
     t.integer "rooms"
-    t.boolean "balcony"
+    t.boolean "balcony", null: false
     t.integer "size"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
