@@ -13,6 +13,7 @@ Rails.application.routes.draw do
 
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
   resources :houses
+  resources :users
   # resources :appointments, %i[index new show create]
   # Defines the root path route ("/")
   root to: 'houses#index'
