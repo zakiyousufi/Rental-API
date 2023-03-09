@@ -28,7 +28,9 @@ After you're finished please remove all the comments and instructions!
   <br/>
 
   <h3><b>Final capstone</b></h3>
-    <p>The Real Estate Appointment Booking Application is a web-based software that aims to make the process of buying or selling a property more convenient and streamlined. The application allows users t…</p>
+  <h4><b>About</b></h4>
+    <p>
+The Real Estate Appointment Booking Application is a web-based software that aims to make the process of buying or selling a property more convenient and streamlined. The application allows users to easily schedule and manage appointments with real estate agents, eliminating the need for phone calls. created with React, and Redux. API repo</p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -57,11 +59,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Budget app] <a name="about-project"></a>
+# 📖 [Retal App] <a name="about-project"></a>
 
 > A mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
 
-**[Budget app]** is a mobile web application where you can manage your budget.
+**[Rental App]** is a mobile web application where you can manage your budget.
 
 ## 🛠 Built With <a name="built-with"></a>
 
