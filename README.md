@@ -61,9 +61,10 @@ The Real Estate Appointment Booking Application is a web-based software that aim
 
 # 📖 [Retal App] <a name="about-project"></a>
 
-> A mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
+>
+The Real Estate Appointment Booking Application is a web-based software that aims to make the process of buying or selling a property more convenient and streamlined. The application allows users to easily schedule and manage appointments with real estate agents, eliminating the need for phone calls. created with React, and Redux. API repo
 
-**[Rental App]** is a mobile web application where you can manage your budget.
+**[Rental App]** The Real Estate Appointment Booking Application is a web-based software that aims to make the process of buying or selling a property more convenient and streamlined.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -107,8 +108,14 @@ The Real Estate Appointment Booking Application is a web-based software that aim
 
 > Describe between 1-3 key features of the application.
 
+- **Add_house**
+- **Delete_house**
+- **Fetch/get_house**
+- **Authenticate_user**
+- **Reserve_house**
+
 - **[See overview of m]**
-  - The Real Estate Appointment Booking Application is a web-based software that aims to make the process of buying or selling a property more convenient and streamlined. The application allows users t…
+  - The Real Estate Appointment Booking Application is a web-based software that aims to make the process of buying or selling a property more convenient and streamlined.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -207,6 +214,13 @@ Example:
 - LinkedIn: [LinkedIn](https://linkedin.com/in/profsain)
 
 
+👤 **usirusen ikon**
+
+- GitHub: [@githubhandle](https://github.com/UsirusenIkon)
+- Twitter: [@twitterhandle](https://twitter.com/Usirusen_Ikon)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/usirusen-ikon)
+
+
 👤 **Soulemanou kunchiefuh babanou**
 
 - GitHub: [@githubhandle](https://github.com/soulemanou-software)
@@ -253,7 +267,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank @Husseini @Ahmad
 
 Original design idea by [Gregoire Vella](https://www.behance.net/gregoirevella). All credits to him.
 
