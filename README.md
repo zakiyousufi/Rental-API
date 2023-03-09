@@ -28,7 +28,7 @@ After you're finished please remove all the comments and instructions!
   <br/>
 
   <h3><b>Final capstone</b></h3>
-
+    <p>The Real Estate Appointment Booking Application is a web-based software that aims to make the process of buying or selling a property more convenient and streamlined. The application allows users t…</p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -106,7 +106,7 @@ After you're finished please remove all the comments and instructions!
 > Describe between 1-3 key features of the application.
 
 - **[See overview of m]**
-  - Rent a house .
+  - The Real Estate Appointment Booking Application is a web-based software that aims to make the process of buying or selling a property more convenient and streamlined. The application allows users t…
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,8 +116,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Link](https://cashverse-raga.onrender.com/)
-- [Loom video](https://www.loom.com/share/fa994de927394858b0a81204dafdb1c4)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,7 +143,7 @@ Clone this repository to your desired folder:
 ```sh
   cd folder
   git clone 
-  cd budget-app
+  cd Rental-House-API
   Open in your favorite editor
 ```
 
@@ -163,7 +162,7 @@ Install this project with:
 To run the project, execute the following command:
 
 ```sh
-  rails server
+  rails server or rails s
 ```
 
 ### Run tests
@@ -193,37 +192,24 @@ Example:
 ## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
+👤 **Ahmad Zaki Yousufi**
 
-👤 **zakiyousufi Ahmad Zaki Yousufi**
-
-- GitHub: [](https://github.com/zakiyousufi)
-- Twitter: []()
-- LinkedIn: []()
-## 👥 Authors <a name="authors"></a>
-## 👥 Authors <a name="authors"></a>
+- GitHub: [@zskiyousufi](https://github.com/zakiyousufi)
+- LinkedIn: [zakiyousufi](https://linkedin.com/in/zakiyousufi)
 
 
+👤 **Husseini Mudi**
 
-👤 **UsirusenIkon Usirusen Ikon**
-
-- GitHub: [](https://github.com/UsirusenIkon)
-- Twitter: []()
-- LinkedIn: []()
-
+- GitHub: [@githubhandle](https://github.com/Profsain)
+- Twitter: [@twitterhandle](https://twitter.com/profsain)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/profsain)
 
 
-👤 **Profsain **
+👤 **Soulemanou kunchiefuh babanou**
 
-- GitHub: []()
-- Twitter: []()
-- LinkedIn: []()
-## 👥 Authors <a name="authors">Profsain </a>
-👤 **soulemanou kunchiefuh **
-
-- GitHub: []()
-- Twitter: []()
-- LinkedIn: []()
-## 👥 Authors <a name="authors">Profsain </a>
+- GitHub: [@githubhandle](https://github.com/soulemanou-software)
+- Twitter: [@twitterhandle](https://twitter.com/Mr_Babanou_237)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/soulemanou-kunchiefuh-babanou)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
