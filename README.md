@@ -24,9 +24,6 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>Final capstone</b></h3>
   <h4><b>About</b></h4>
     <p>
@@ -123,7 +120,7 @@ The Real Estate Appointment Booking Application is a web-based software that aim
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+> No live demo.
 
 
 
@@ -209,23 +206,23 @@ Example:
 
 👤 **Husseini Mudi**
 
-- GitHub: [@githubhandle](https://github.com/Profsain)
-- Twitter: [@twitterhandle](https://twitter.com/profsain)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/profsain)
+- GitHub: [@Profsain](https://github.com/Profsain)
+- Twitter: [@Profsain](https://twitter.com/profsain)
+- LinkedIn: [Profsain](https://linkedin.com/in/profsain)
 
 
 👤 **usirusen ikon**
 
-- GitHub: [@githubhandle](https://github.com/UsirusenIkon)
-- Twitter: [@twitterhandle](https://twitter.com/Usirusen_Ikon)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/usirusen-ikon)
+- GitHub: [@UsirusenIkon](https://github.com/UsirusenIkon)
+- Twitter: [@Usirusen-ikon](https://twitter.com/Usirusen_Ikon)
+- LinkedIn: [usirusen-ikon](https://www.linkedin.com/in/usirusen-ikon)
 
 
 👤 **Soulemanou kunchiefuh babanou**
 
-- GitHub: [@githubhandle](https://github.com/soulemanou-software)
-- Twitter: [@twitterhandle](https://twitter.com/Mr_Babanou_237)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/soulemanou-kunchiefuh-babanou)
+- GitHub: [@soulemanou-software](https://github.com/soulemanou-software)
+- Twitter: [@Mr_Babanou_237](https://twitter.com/Mr_Babanou_237)
+- LinkedIn: [soulemanou-kunchiefuh-babanou](https://linkedin.com/in/soulemanou-kunchiefuh-babanou)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -236,9 +233,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- > User profile page: User will able to add just a room
-- > Add_house : user will be able to add a house for rent
-- > Delete_house : user will be able to delete a house
+- > User profile page: Yser will able to create a profile page 
+- > Add room : User will able to add a room for rent
 
 
 
@@ -270,9 +266,9 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank @UsirusenIkon @zakiyousufi @Profsain @soulemanou-software
+I would like to thank Microverse, Code reviewers, coding partners and [Gregoire Vella](https://www.behance.net/gregoirevella).
 
-Original design idea by [Gregoire Vella](https://www.behance.net/gregoirevella). All credits to him.
+Original design idea by **_Gregoire Vella_**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
