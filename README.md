@@ -236,8 +236,7 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[List Transactions]**
-- [ ] **[Transaction Details]**
+- > User profile page: User will able to add just a room
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -267,7 +266,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank @Husseini @Ahmad
+I would like to thank @UsirusenIkon @zakiyousufi @Profsain @soulemanou-software
 
 Original design idea by [Gregoire Vella](https://www.behance.net/gregoirevella). All credits to him.
 
