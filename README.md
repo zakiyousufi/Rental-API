@@ -237,6 +237,10 @@ Example:
 > Describe 1 - 3 features you will add to the project.
 
 - > User profile page: User will able to add just a room
+- > Add_house : user will be able to add a house for rent
+- > Delete_house : user will be able to delete a house
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
