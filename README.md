@@ -24,7 +24,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
 
-  <h3><b>Final capstone</b></h3>
+  <h3><b>Rental App</b></h3>
   <h4><b>About</b></h4>
     <p>
 The Real Estate Appointment Booking Application is a web-based software that aims to make the process of buying or selling a property more convenient and streamlined. The application allows users to easily schedule and manage appointments with real estate agents, eliminating the need for phone calls. created with React, and Redux. API repo</p>
