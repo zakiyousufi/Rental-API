@@ -10,6 +10,7 @@ Rails.application.routes.draw do
   get 'houses/new'  
   get 'houses/create'
   get 'houses/destroy'
+  devise_for :users
 
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
   resources :houses
@@ -23,7 +24,7 @@ Rails.application.routes.draw do
       post 'users/login'
       post 'users/register'
       get 'users/index'
-
+      
       resources :appointments
       resources :houses
     end
