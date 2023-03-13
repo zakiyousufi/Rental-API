@@ -10,4 +10,3 @@ class Room < ApplicationRecord
     errors.add(:image, 'no image added') unless image.attached?
   end
 end
-end
