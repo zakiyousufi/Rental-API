@@ -1,6 +1,6 @@
 class Reservation < ApplicationRecord
   belongs_to :user
-  belongs_to :house
+  belongs_to :room
 
   validates :from_date, :to_date, presence: true
   validate :to_date_after_from_date

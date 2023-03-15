@@ -10,6 +10,6 @@ class User < ApplicationRecord
   validates :password, presence: true
 
   # Associations
-  has_many :houses
+  has_many :rooms
   has_many :reservations
 end

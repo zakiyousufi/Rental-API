@@ -1,15 +1,15 @@
 class Api::V1::ReservationsController < ApplicationController
   # GET /reservations
   def index
-    @reservations = Reservation.includes(:house).where('user_id = ?', current_user)
+    @reservations = Reservation.includes(:room).where('user_id = ?', current_user)
 
     render json: @reservations
   end
 
-  # POST /houses/1/rservation
+  # POST /rooms/1/rservation
   def create
     @reservation = Reservation.new(reservation_params)
-    @reservation.update(user: current_user, house: house.find(params[:house_id]))
+    @reservation.update(user: current_user, room: Room.find(params[:room_id]))
 
     if @reservation.save
       render json: @reservation, status: :created

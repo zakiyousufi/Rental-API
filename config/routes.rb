@@ -14,7 +14,7 @@ Rails.application.routes.draw do
     namespace :v1 do
       resources :current_user, only: [:index]
       resources :reservations, only: [:index, :destroy]
-      resources :houses, only: [:index, :show, :new, :create, :destroy] do
+      resources :rooms, only: [:index, :show, :new, :create, :destroy] do
         resources :reservations , only: [:create]
       end
     end

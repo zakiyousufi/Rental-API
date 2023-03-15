@@ -1,4 +1,4 @@
 class RoomSerializer < ActiveModel::Serializer
-  attributes :id, :address, :house_type, :rooms, :balcony, :size :user_id
+  attributes :id, :name, :city, :image, :description, :beds, :user_id, :price
   has_many :reservations
 end
