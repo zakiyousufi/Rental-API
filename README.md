@@ -119,7 +119,7 @@ The collaborators to this project  are;
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Our server is live [here]()
+- Our server is live [here](https://rental-rooms.onrender.com)
 - To use this project visit [Rental-App]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
