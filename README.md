@@ -104,7 +104,7 @@ After you're finished please remove all the comments and instructions!
 
 ## Front-End Repository <a name="backend-repo"></a>
 
-  [Front-End Repo]()
+  [Front-End Repo](https://github.com/UsirusenIkon/Rental-house-UI)
 
 ## Kanban Board <a name="kanban-board"></a>
 
