@@ -17,26 +17,20 @@
 default: &default
   adapter: postgresql
   encoding: unicode
-  # # host: winhost
-  # host: localhost
-  # username: postgres
-  # # password: ithuba666
-  # password: motorola123
   # For details on connection pooling, see Rails configuration guide
   # https://guides.rubyonrails.org/configuring.html#database-pooling
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
 
 development:
   <<: *default
-  database: dream_rent_api_development
-  username: postgres
-  password: defjamikon22
+  database: Rental_App_development
+
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
   # When left blank, postgres will use the default role. This is
   # the same name as the operating system user running Rails.
-  #username: dream_rent_api
+  #username: Cherry_Rooms_back_end
 
   # The password associated with the postgres role (username).
   #password:
@@ -64,9 +58,7 @@ development:
 # Do not set this db to the same as development or production.
 test:
   <<: *default
-  database: dream_rent_api_test
-  username: postgres
-  password: defjamikon22
+  database: Rental_App_test
 
 # As with config/credentials.yml, you never want to store sensitive information,
 # like your database password, in your source code. If your source code is
@@ -90,6 +82,5 @@ test:
 #
 production:
   <<: *default
-  database: dream_rent_api_production
-  username: dream_rent_api
-  password: <%= ENV["DREAM_RENT_API_DATABASE_PASSWORD"] %>
+  url: <%= ENV["DATABASE_URL"] %>
+  database: Rental_App_production
